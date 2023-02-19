@@ -1,5 +1,5 @@
 
-// This code was written by Akib Çaðrý Kürklü.
+// This code was written by Akýb Çaðrý Kürklü.
 
 using System.Collections;
 using System.Collections.Generic;
